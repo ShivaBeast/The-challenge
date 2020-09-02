@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<widget xmlns = "https://www.w3.org/ns/widgets"
+	xmlns:gap	 = "https://www.phonegap.com/ns/1.0"
+	id			 = "nl.glr.mwf3"
+	version 	 = "1.0.0" >
+
+		<name>MWFM3</name>
+
+		<description>
+			De app voor de module MWFM3.
+		</description>
+		<plugin name="cordova-plugin-device" spec="~2" source="npm" />
+		<plugin name="cordova-plugin-battery-status" spec="~2" source="npm" />
+		<plugin name="cordova-plugin-device-orientation" spec="~2" source="npm" />
+	</widget>
